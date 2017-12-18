@@ -5,7 +5,7 @@ problem = 1                     # 0 = Simple ODE
 				# 1 = Charged Particle Motion in a Vertical Electric Field
 
 # Pick a solution method; note that problem 1 is not compatible with solution 0 and that problem 0 is only compatible with solution 0 or running in verification mode in which it runs both solution 0 & 1.
-solMethod = 3                   # 0 = Forward Euler
+solMethod = 1                   # 0 = Forward Euler
                                 # 1 = Runge-Kutta 4th order (rk4)
                                 # 2 = Runge-Kutta Cash-Karp (rkck)
                                 # 3 = Runge-Kutta-Fehlberg (rkf45)

@@ -10,6 +10,8 @@
 #include "class_def.hpp"
 #include "selector.hpp"
 
+
+
 int main(int argc, char** argv){
 	
 	input read;

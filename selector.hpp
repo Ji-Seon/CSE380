@@ -10,6 +10,7 @@
 
 #include "class_def.hpp"
 #include "simpleODE.hpp"
+#include "hardODE.hpp"
 
 using namespace std;
 

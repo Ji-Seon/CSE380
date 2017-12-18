@@ -1,7 +1,3 @@
-// hardODE.cpp
-// Implementation file
-
-
 #include <iostream>
 #include <cmath>
 #include <stdexcept>
@@ -173,5 +169,4 @@ gsl_odeiv2_driver_free(d);
 
 return path;
 }
-
 
